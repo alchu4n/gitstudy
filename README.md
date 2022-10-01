@@ -9,3 +9,5 @@ git 使用study
 ## clone 远程仓库代码到本地
 git clone https://github.com/alchu4n/gitstudy
 
+
+- 同步下main branch的更新到 my-feature
